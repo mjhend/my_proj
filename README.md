@@ -1,3 +1,2 @@
-#my own project on GitHub
-#I am just figuring out how to put my own stuff up on GitHub
-#figuring this out
+#making some changes
+#to test out the readme file
